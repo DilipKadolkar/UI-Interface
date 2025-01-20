@@ -6,16 +6,16 @@ export const SidebarData = [
     {
         title: 'Home',
         icon:<HomeIcon/>,
-        path:"#home"
+        path:"/pages/home"
     },
     {
-        title: 'Services',
+        title: 'Employee',
         icon:<MiscellaneousServicesIcon/>,
-        path:"#services"
+        path:"/pages/employee"
     },
     {
         title: 'About',
         icon:<InfoIcon/>,
-        path:"#about"
+        path:"/pages/about"
     }
 ]

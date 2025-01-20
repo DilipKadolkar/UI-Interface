@@ -6,3 +6,29 @@
     top: 0;
     left: 0;
 }
+.header-div{
+    display: flex;
+    height: 10%;
+    padding: 10px;
+    background-color: rgb(87, 159, 87);
+    text-align: center;
+}
+
+.header-div h2{
+    align-self: center;
+    width: 100%;
+    font-size: 30px;
+    color: wheat;
+    margin: 0;
+    text-align: center;
+}
+
+.page-content{
+    display: flex;
+    font-size: 30px;
+    height: 100%;
+    background-color:rgb(215, 214, 214);
+    text-align: center;
+    padding-left: 250px;
+}
+
